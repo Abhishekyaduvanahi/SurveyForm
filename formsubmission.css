@@ -1,4 +1,19 @@
 body{
     max-width: 500px;
     margin: auto;
+    
+    background-color:pink;
 }
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+  }
+  #h1{
+    background: fixed;
+    background-color: rgb(238, 231, 226);
+    margin-top: 100px;
+    width: fit-content;
+  }
